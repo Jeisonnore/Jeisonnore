@@ -32,7 +32,7 @@
 
 - ✅ **Asistencia al curso básico de Python**  
 📄 [Ver certificado](https://github.com/jeisonnore/jeisonnore/blob/main/certificado_python.pdf)  
-*(Este enlace funcionará después de subir el archivo al repositorio)*
+
 
 ---
 
